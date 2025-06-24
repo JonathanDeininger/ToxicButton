@@ -30,17 +30,17 @@ Der Toxic Button ist ein Schalter, der auf Knopfdruck zwei Soundspuren tauscht. 
 
 ## Bauteile
 
-# 8-Relay-Module
+### 8-Relay-Module
 Kann in Suchmaschinen unter der Bezeichnung "ESP32 8 Relay Module" gefunden werden.
 
 [Google-Suche](https://www.google.com/search?q=ESP32+8+Relay+Module)
 [Amazon](https://www.amazon.de/-/en/8-channel-wireless-control-development-controlling/dp/B0CCSF1WNH)
 
-# Arcade-LED-Button
+### Arcade-LED-Button
 [Amazon](https://www.amazon.de/dp/B01LZMANZ7?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
-# Klinke Buchsen
+### Klinke Buchsen
 [Amazon](https://www.amazon.de/dp/B07TT16XJV?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
-# 2 Kanal Mixer
+### 2 Kanal Mixer
 [Amazon](https://www.amazon.de/dp/B09TT3LVGX?ref=ppx_yo2ov_dt_b_fed_asin_title)
