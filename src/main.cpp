@@ -7,10 +7,7 @@ bool relayState[8] = {true, true, true, true, true, true, true, true};
 bool lastButtonState = 1;
 
 void setup() {
-    Serial.begin(115200);
-
-    pinMode(buttonPin, INPUT_PULLUP);
-    
+    pinMode(buttonPin, INPUT_PULLUP);  
     for (int i = 0; i < 8; i++) {
         pinMode(relayPins[i], OUTPUT);
         digitalWrite(relayPins[i], relayState[i]);
