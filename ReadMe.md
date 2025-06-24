@@ -23,3 +23,8 @@ Der Toxic Button ist ein Schalter, der auf Knopfdruck zwei Soundspuren tauscht. 
 ## Schaltplan
 
 ![Schaltplan](./schaltplan.png)
+
+## Gehäuse
+
+![Gehäuse](./gehäuse.png)
+
